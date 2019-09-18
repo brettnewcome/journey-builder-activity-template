@@ -31,7 +31,7 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "__application_key_from_appcenter_here__",
+      "applicationExtensionKey": "K6KK4NWfDddNblj3FbsPwofVcAuCojQwc12RO9OmT0k4UiIQj572_u7HRMRP_o2wru5juz2Ix5HILOPRiEkZUvLxe3iBcZ6PQavCRAt3TpAnH-f-D9V4gelKTjpm02jOavfL5z0rrn0jPVCMU9QS3WXPXIEfFlpLfXG3Qymm7mzCykN06TMqOQkqKqfRkkUAU203-eL-SkWMWeFdWe8S-VWQ7yQWxjh7u6S2wHmmKf7jM1WyN3CocDCYysg3hw2",
       "save": {
         "url": "https://atomicconnector.herokuapp.com/journeybuilder/save",
           "verb": "POST",
